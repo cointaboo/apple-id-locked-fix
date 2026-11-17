@@ -159,4 +159,10 @@ Apple ID 解封没有第三方渠道。所有声称能解封的都是：
 
 ---
 
+## 相关指南
+
+- [免费 Apple ID 共享账号使用指南](https://github.com/cointaboo/free-apple-id-share)
+- [Shadowrocket 共享账号 · 小火箭下载与配置](https://github.com/cointaboo/shadowrocket-shared-account)
+- [日区 Apple ID 共享账号使用指南](https://github.com/cointaboo/jp-apple-id-share)
+
 <sub>最后更新：2026-11-17 · 本文不提供任何"解封服务"，也不接收账号信息</sub>
